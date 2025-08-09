@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Bienvenido a nuestro sitio web",
+    "description": "Esta es una aplicación Next.js multiidioma"
+  },
+  "Navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  }
+}
